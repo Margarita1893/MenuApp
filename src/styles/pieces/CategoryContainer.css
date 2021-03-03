@@ -1,0 +1,37 @@
+.Rectangle {                          /*sets the height to all the screen*/
+    position: relative;
+    width: 100vw;
+    height: 120vh;
+    background: #b64421;
+    border: 1px solid  #b64421;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.CategoryContainer {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    width: 100vw;
+    height: 16vw;
+    margin-top: 17vw;
+    z-index: 2;
+}
+
+
+.LinkCategory {
+    text-decoration: none;
+}
+
+.indication{
+    position: absolute;  
+    margin-top: 80vw;
+    font-size: 25px;
+    color: azure;
+    text-align: center;
+    margin-right: 40vw;
+}

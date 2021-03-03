@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+.RectangleHome {
+    position: relative;
+    width: 100vw;
+    min-height: 100vh;
+    height: max-content;
+    background: #b64421;
+    border: 1px solid #b64421;
+    margin-top: 0px;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.UnicornContainer {
+    position: absolute;
+    width: 95vw;
+    margin-left: 3vw;
+    margin-top: 60vw;
+    height: 90vw;
+    background-color: #fae291;
+    border-radius: 30%;
+    z-index: 2;
+}
+
+.UnicornCake {
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 40%;
+    height: 95%;
+    margin-top: 2.5%;
+}
+
+
+.LinkMenu {
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+}
+
+.Tittle1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20vw;
+    color: rgb(250, 232, 68);
+
+}

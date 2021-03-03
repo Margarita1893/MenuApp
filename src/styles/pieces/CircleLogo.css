@@ -1,0 +1,18 @@
+.HalfCircle {
+    position: absolute;
+    width: 50vw;
+    height: 50vw;
+    background: #b64421;
+    border: 1px solid #b64421;
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-top: -25vw;
+    z-index: 1;
+}
+
+.logoPettit{
+    height: 70%;
+    margin-left: 15%;
+    margin-top: 10%;
+    border-radius: 50%;
+}
