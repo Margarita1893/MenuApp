@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.632269a6.chunk.css",
+    "main.js": "/static/js/main.125b2884.chunk.js",
+    "main.js.map": "/static/js/main.125b2884.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fef1e0e2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fef1e0e2.js.map",
+    "static/js/2.40c233f9.chunk.js": "/static/js/2.40c233f9.chunk.js",
+    "static/js/2.40c233f9.chunk.js.map": "/static/js/2.40c233f9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.632269a6.chunk.css.map": "/static/css/main.632269a6.chunk.css.map",
+    "static/js/2.40c233f9.chunk.js.LICENSE.txt": "/static/js/2.40c233f9.chunk.js.LICENSE.txt",
+    "static/media/Whatsapp.5960a895.svg": "/static/media/Whatsapp.5960a895.svg",
+    "static/media/cake-port.be961fed.webp": "/static/media/cake-port.be961fed.webp",
+    "static/media/cake1.19b64b83.jpeg": "/static/media/cake1.19b64b83.jpeg",
+    "static/media/cake1.2bcdc814.jpg": "/static/media/cake1.2bcdc814.jpg",
+    "static/media/cake10.f0479809.jpeg": "/static/media/cake10.f0479809.jpeg",
+    "static/media/cake11.fa6a7668.jpeg": "/static/media/cake11.fa6a7668.jpeg",
+    "static/media/cake12.410f52a1.jpeg": "/static/media/cake12.410f52a1.jpeg",
+    "static/media/cake2.8f19c6b2.jpeg": "/static/media/cake2.8f19c6b2.jpeg",
+    "static/media/cake3.4e2a54d4.jpeg": "/static/media/cake3.4e2a54d4.jpeg",
+    "static/media/cake4.e8d9a532.jpeg": "/static/media/cake4.e8d9a532.jpeg",
+    "static/media/cake5.1e6cc66e.jpeg": "/static/media/cake5.1e6cc66e.jpeg",
+    "static/media/cake6.b8aed1df.jpeg": "/static/media/cake6.b8aed1df.jpeg",
+    "static/media/cake7.b2d23461.jpeg": "/static/media/cake7.b2d23461.jpeg",
+    "static/media/cake9.92871c29.jpeg": "/static/media/cake9.92871c29.jpeg",
+    "static/media/cupCake.e9f600ff.jpg": "/static/media/cupCake.e9f600ff.jpg",
+    "static/media/cupcake-icon.86a9ebac.jpg": "/static/media/cupcake-icon.86a9ebac.jpg",
+    "static/media/cupcakesp.d4a43e02.jpg": "/static/media/cupcakesp.d4a43e02.jpg",
+    "static/media/fondo2.c95a7211.jpg": "/static/media/fondo2.c95a7211.jpg",
+    "static/media/iconopastel.342650ec.jpg": "/static/media/iconopastel.342650ec.jpg",
+    "static/media/logo-removebg.1a2d78fb.jpg": "/static/media/logo-removebg.1a2d78fb.jpg",
+    "static/media/pastelFlores.5e4dd146.jpg": "/static/media/pastelFlores.5e4dd146.jpg",
+    "static/media/personalcake.122765be.jpg": "/static/media/personalcake.122765be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fef1e0e2.js",
+    "static/js/2.40c233f9.chunk.js",
+    "static/css/main.632269a6.chunk.css",
+    "static/js/main.125b2884.chunk.js"
+  ]
+}
