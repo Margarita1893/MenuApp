@@ -18,7 +18,7 @@ function ProductContainer (props) {
                     
                 <div className='ProductPriceContainer' >
                     <div className='ContainerPrice'>
-                        <p className='ProductPrice'>${product.pricesmall}</p>
+                        <p className='ProductPrice'>${product.pricesmall.toFixed(3)}</p>
                         <div className='ContainerCounter'>
                         <button className='MinusCounter' onClick={() => onRemove(product)}>-</button>
                             <div className='CircleCounter'>

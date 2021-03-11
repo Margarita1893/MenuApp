@@ -19,7 +19,7 @@ function Order (props) {
         //for every item in the order creates a string and adds thas string to str
         carItems.forEach(item=>{
             if(item.qty!==0)
-            {let subst=`${item.name}%20(${item.qty})%20subtotal:$${item.qty*item.pricesmall}%20`;
+            {let subst=`${item.name}%20(${item.qty})%20subtotal:${item.qty*item.pricesmall}%20`;
             str+=subst;            }
         }   
         )
@@ -29,7 +29,7 @@ function Order (props) {
         waS=  waS.replace(/ /g, '%20');
        ;
         //set the url with the total
-        waMsj=`${waS}%20Total%20sin%20domicilio:%20$${showTotal}`
+        waMsj=`${waS}%20Total%20sin%20domicilio:%20${showTotal}`
         //returns the url 
         return waMsj;   
     }  
@@ -42,7 +42,7 @@ function Order (props) {
                 </div>
                 <div className='OrderListContainer'> 
                     {carItems.length === 0 && 
-                        <div className='Text'>
+                          <div className='Text'>
                             Aún no tienes productos, agrega productos al carro
                         </div>}
                     <ul className='ShoppingList'>

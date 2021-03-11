@@ -5,7 +5,7 @@ function Total(props) {
 
     const { carItems } = props;
 
-    const itemsPrice = carItems.reduce((a, c) => a + c.pricesmall * c.qty, 0);
+    const itemsPrice = carItems.reduce((a, c) => a + c.pricesmall * c.qty, 0).toFixed(3);
 
     let showTotal = (new Intl.NumberFormat("es-CO", {style: "currency", currency: "COP", maximumFractionDigits: 0}).format(itemsPrice));
 

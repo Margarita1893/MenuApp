@@ -5,7 +5,6 @@ import BgVector from './pieces/BgVector';
 import CircleLogo from './pieces/CircleLogo';
 import CategoryContainer from './pieces/CategoryContainer';
 import BackButton from './pieces/BackButton';
-// import SocialMedia from './pieces/SocialMedia'; 
 import Order from '../components/mainviews/Order';
 import data from '../components/data';
 import Total from './pieces/Total';
@@ -165,7 +164,7 @@ function BuyCar () {
                 }
                 
                 <Total carItems={carItems}/>
-                {/* <SocialMedia /> */}
+              
                 
             </div>
         </div>
